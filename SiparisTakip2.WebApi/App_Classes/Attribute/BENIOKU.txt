@@ -1,0 +1,12 @@
+﻿1-WebApideki metodlarımı StokResponse tipinde donderıp, gelen parametreleri ise RequestExtreme tipiyle alıyorum.
+Sınıfa ozel olarak Request olayı olmadığı için her hangi bir class için Request olayında RequestExtreme Kullanaabilirim.
+
+2-ClassConverter => ; WebApide stokService de stok ekleyip silmek istediğimde , stokService.Add(...buraya Stok tipi gelmeli)
+webApidki aldığım stok tipi serilize edilmiş stok olmalı. o yuzden StokSeri sınıfı gelıyor ve bu sınıfı stokService.Add metoduna atabılmem için bir sınıf donusumu yapmam gereklı. Statıc olarak bunu saglattık.
+
+3- Status sınıfı  => Her Response için (cevap) bir durumkodu ve mesajı olması gereklıydı. 
+RequesExtreme Sınıfına prop olarak Status Sınıfını verdık kı cevap gonderırken statusCode ve message atabılelım.
+
+4-IBaseRequest<T>=> bu ınterface yı kullanarak webapimdeki gelen isteklerı yakalayacım.
+orn:StokRequest in içinde 
+ prop olarak OturumBİlgisi ve yine prop olarak Stok olmalı...

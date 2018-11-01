@@ -1,0 +1,30 @@
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.DAL.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.Entities.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.Entities.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.Entities.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.DAL.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\SiparisTakip2.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.DAL\obj\Debug\SiparisTakip2.DAL.pdb

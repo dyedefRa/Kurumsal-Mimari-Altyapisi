@@ -1,0 +1,178 @@
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.MvcUI.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.MvcUI.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.MvcUI.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.csproj.CopyComplete
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.BLL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Entities.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Interfaces.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.BLL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.DAL.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Entities.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Entities.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Interfaces.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Ninject.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.MvcUI\bin\Ninject.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.MvcUI.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.MvcUI.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.MvcUI.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Ninject.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.BLL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Interfaces.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.BLL.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.DAL.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\SiparisTakip2.Interfaces.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Ninject.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.MvcUI\obj\Debug\SiparisTakip2.MvcUI.pdb

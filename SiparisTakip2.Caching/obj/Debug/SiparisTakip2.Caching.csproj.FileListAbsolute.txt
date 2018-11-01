@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.Caching\bin\Debug\SiparisTakip2.Caching.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.Caching\bin\Debug\SiparisTakip2.Caching.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.Caching\obj\Debug\SiparisTakip2.Caching.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.Caching\obj\Debug\SiparisTakip2.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.Caching\obj\Debug\SiparisTakip2.Caching.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.Caching\obj\Debug\SiparisTakip2.Caching.pdb

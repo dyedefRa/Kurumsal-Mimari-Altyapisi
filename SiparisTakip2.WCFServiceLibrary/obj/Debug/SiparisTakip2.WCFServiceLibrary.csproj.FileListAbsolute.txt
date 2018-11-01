@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\bin\Debug\SiparisTakip2.WCFServiceLibrary.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\bin\Debug\SiparisTakip2.WCFServiceLibrary.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\bin\Debug\SiparisTakip2.WCFServiceLibrary.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\obj\Debug\SiparisTakip2.WCFServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\obj\Debug\SiparisTakip2.WCFServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\obj\Debug\SiparisTakip2.WCFServiceLibrary.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.WCFServiceLibrary\obj\Debug\SiparisTakip2.WCFServiceLibrary.pdb

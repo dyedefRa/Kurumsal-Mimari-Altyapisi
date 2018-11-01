@@ -1,0 +1,34 @@
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.BLL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.BLL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Entities.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Interfaces.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.DAL.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Entities.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Entities.dll.config
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Interfaces.pdb
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.BLL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.BLL.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.DAL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Interfaces.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.DAL.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.DAL.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\SiparisTakip2.Interfaces.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\KURUMSAL-NINJECT-SERVICE-PROJELERI\SiparisTakip2\SiparisTakip2.BLL\obj\Debug\SiparisTakip2.BLL.pdb
